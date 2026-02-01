@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+
+# Izinkan semua robot (Google, Bing, DuckDuckGo, dll)
+User-agent: *
+Allow: /
+
+# Beri tahu lokasi peta situs Anda
+Sitemap: https://logika-positif.vercel.app/sitemap.xml
