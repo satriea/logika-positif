@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     // ⚡ Performa optimal
     target: 'es2017',
-    minify: 'terser',
+    //minify: 'terser',
     sourcemap: false,
     cssCodeSplit: true,
 
@@ -36,5 +36,5 @@ export default defineConfig({
   }
 
   //base: '/',
-  //base: '/interlude-rocks',
+  base: '/logika-positif',
 });
