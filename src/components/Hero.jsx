@@ -25,7 +25,7 @@ const Hero = () => {
               Trigger diri untuk berpikir lebih positif
             </p>
             
-            <h1 className="text-5xl md:text-7xl font-black leading-[1.1] text-black tracking-tighter">
+            <h1 className="text-6xl md:text-7xl font-black leading-[1.1] text-black tracking-tighter">
               Logika <br />
               <span className="text-white drop-shadow-sm">Positif</span>
             </h1>

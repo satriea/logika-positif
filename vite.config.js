@@ -33,8 +33,8 @@ export default defineConfig({
   server: {
     open: true,
     port: 1608
-  }
+  },
 
-  //base: '/',
-  base: '/logika-positif',
+  base: '/'
+  //base: '/interlude-rocks',
 });
