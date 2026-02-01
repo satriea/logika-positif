@@ -51,7 +51,7 @@ const Footer = () => {
                 "Dukung perjalanan literasi ini dengan secangkir kopi."
               </p>
               <a
-                href="https://saweria.co/namakamu"
+                href="https://saweria.co/logikapositif"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-white font-black text-sm uppercase tracking-widest border-b-2 border-[#F2A69A] pb-1 hover:text-[#F2A69A] transition-colors"
