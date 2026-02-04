@@ -51,7 +51,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <p className="text-lg md:text-xl leading-relaxed text-black/80 font-medium italic border-l-4 border-black pl-6 py-2">
-              “Kenyataan memperluas tindakan, tindakan memperluas mimpi-mimpi memperluas kenyataan.”
+              “Kenyataan memperluas tindakan, tindakan memperluas mimpi, mimpi memperluas kenyataan.”
             </p>
             
             <p className="text-base leading-relaxed text-black/70 font-medium">
