@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import LogoTag from "../assets/images/Lampu.png";
 
 export default function Navbar({ activeSection, onManualClick }) {
   const [open, setOpen] = useState(false);
@@ -45,12 +46,23 @@ export default function Navbar({ activeSection, onManualClick }) {
           className="flex items-center gap-3 group"
           whileHover={{ scale: 1.02 }}
         >
-          <div className="bg-black text-[#F2A69A] w-10 h-10 flex items-center justify-center rounded-xl font-black text-xl transition-transform group-hover:rotate-12 shadow-lg shadow-black/10">
-            L
+          {/* Box Logo */}
+          <div className="bg-white w-10 h-10 flex items-center justify-center rounded-xl transition-transform group-hover:rotate-12 shadow-lg shadow-black/10">
+            <img 
+              src={LogoTag} 
+              alt="Logo Lampu" 
+              className="w-6 h-6 object-contain filter brightness-110 drop-shadow-[0_0_8px_rgba(242,166,154,0.4)]" 
+            />
           </div>
+
+          {/* Text Logo */}
           <div className="flex flex-col leading-none">
-            <span className="text-black font-black text-lg tracking-tighter uppercase">Logika</span>
-            <span className="text-black/40 font-bold text-[9px] uppercase tracking-[0.4em]">Positif</span>
+            <span className="text-black font-black text-lg tracking-tighter uppercase">
+              Logika
+            </span>
+            <span className="text-black/40 font-bold text-[9px] uppercase tracking-[0.4em]">
+              Positif
+            </span>
           </div>
         </motion.a>
 
