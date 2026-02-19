@@ -23,58 +23,26 @@ const BookGallery = () => {
     },
     {
       id: 2,
-      title: "Edisi Keren",
-      subtitle: "Mengenal Diri Melalui Kata",
-      tag: "Special Edition",
+      title: "Logika Positif",
+      subtitle: "Pemikiran Logis Tentang Cinta",
+      tag: "Comming Soon",
       color: "bg-[#F2A69A]",
       content: "Fokus pada pengembangan karakter melalui literasi. Edisi ini membedah lebih dalam tentang bagaimana tulisan bisa menjadi terapi bagi jiwa yang lelah. Diaz membagikan teknik-teknik refleksi yang ia gunakan selama sepuluh tahun berkarir untuk menjaga kewarasan mental di tengah tekanan profesional yang tinggi."
     },
     {
       id: 3,
-      title: "Workbook Refleksi",
-      subtitle: "Membangun Kebiasaan Baru",
-      tag: "Practice",
+      title: "Logika Positif",
+      subtitle: "Inspirasi di Jalan Raya",
+      tag: "Comming Soon",
       color: "bg-white",
       content: "Bukan sekadar bacaan, ini adalah ruang bagi Anda untuk menuliskan narasi Anda sendiri. Dilengkapi dengan prompt harian yang menantang kejujuran diri. Buku kerja ini didesain minimalis agar fokus tetap pada aliran pikiran Anda, membantu Anda menciptakan kebiasaan positif yang bertahan lama."
     },
     {
       id: 4,
-      title: "Nalar Jernih",
-      subtitle: "Seni Mengolah Emosi",
-      tag: "New Release",
+      title: "Logika Positif",
+      subtitle: "Belajar dari Ciptaan Semesta",
+      tag: "Comming Soon",
       color: "bg-emerald-400",
-      content: "Karya terbaru yang fokus pada kecerdasan emosional. Bagaimana logika tidak seharusnya membunuh emosi, melainkan membimbingnya. Sebuah eksplorasi tentang empati terhadap diri sendiri sebelum kita mampu berempati secara tulus kepada orang lain di sekitar kita."
-    },
-    {
-      id: 5,
-      title: "Nalar Keruh",
-      subtitle: "Seni Mengolah Bahagia",
-      tag: "New Release",
-      color: "bg-indigo-400",
-      content: "Karya terbaru yang fokus pada kecerdasan emosional. Bagaimana logika tidak seharusnya membunuh emosi, melainkan membimbingnya. Sebuah eksplorasi tentang empati terhadap diri sendiri sebelum kita mampu berempati secara tulus kepada orang lain di sekitar kita."
-    },
-    {
-      id: 6,
-      title: "Nalar Embuh",
-      subtitle: "Seni Mengolah Bahagia",
-      tag: "New Release",
-      color: "bg-green-400",
-      content: "Karya terbaru yang fokus pada kecerdasan emosional. Bagaimana logika tidak seharusnya membunuh emosi, melainkan membimbingnya. Sebuah eksplorasi tentang empati terhadap diri sendiri sebelum kita mampu berempati secara tulus kepada orang lain di sekitar kita."
-    },
-    {
-      id: 7,
-      title: "Nalar Keruh",
-      subtitle: "Seni Mengolah Bahagia",
-      tag: "New Release",
-      color: "bg-yellow-400",
-      content: "Karya terbaru yang fokus pada kecerdasan emosional. Bagaimana logika tidak seharusnya membunuh emosi, melainkan membimbingnya. Sebuah eksplorasi tentang empati terhadap diri sendiri sebelum kita mampu berempati secara tulus kepada orang lain di sekitar kita."
-    },
-    {
-      id: 8,
-      title: "Nalar Keruh",
-      subtitle: "Seni Mengolah Bahagia",
-      tag: "New Release",
-      color: "bg-blue-400",
       content: "Karya terbaru yang fokus pada kecerdasan emosional. Bagaimana logika tidak seharusnya membunuh emosi, melainkan membimbingnya. Sebuah eksplorasi tentang empati terhadap diri sendiri sebelum kita mampu berempati secara tulus kepada orang lain di sekitar kita."
     },
   ];
